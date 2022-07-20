@@ -11,7 +11,9 @@
   
 <p><img align="right" src="https://github.com/ShalmonAnandas/ShalmonAnandas/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning PERL and DataScience
+- 🌱 I’m currently learning PERL and Regex
+
+- 💼 Intern at [NIRRH](https://nirrh.res.in/)
 
 - 📫 How to reach me **nashalanandas@gmail.com**
 <br>
@@ -82,5 +84,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align-"left">Profile readme taken and edited from </p>
-[Adam-pw](https://github.com/Adam-pw)
+[Readme edited from Adam Pithenwala](https://github.com/Adam-pw)

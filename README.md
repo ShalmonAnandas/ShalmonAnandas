@@ -84,4 +84,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Readme edited from Adam Pithenwala](https://github.com/Adam-pw)
+Readme adopted from [Adam Pithenwala](https://github.com/Adam-pw)

@@ -15,7 +15,7 @@
 
 - 💼 Intern at [NIRRH](https://nirrh.res.in/)
 
-- 📫 How to reach me **nashalanandas@gmail.com**
+- 📫 Reach me via [email](nashalanandas@gmail.com)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

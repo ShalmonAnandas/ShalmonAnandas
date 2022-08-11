@@ -11,7 +11,7 @@
   
 <p><img align="right" src="https://github.com/ShalmonAnandas/ShalmonAnandas/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning PERL and Regex
+- 🌱 I’m currently learning PERL, PHP, GODOT
 
 - 💼 Intern at [NIRRH](https://nirrh.res.in/)
 

@@ -16,6 +16,7 @@
 - 💼 Intern at [NIRRH](https://nirrh.res.in/)
 
 - 📫 Reach me via [email](nashalanandas@gmail.com)
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,7 +63,7 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> 
+      alt="mysql" width="40" height="40" /> </a> </a>  
       
 <br>
 

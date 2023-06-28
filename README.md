@@ -11,9 +11,9 @@
   
 <p><img align="right" src="https://github.com/ShalmonAnandas/ShalmonAnandas/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning PERL, PHP, GODOT
+- 🌱 I’m currently learning Flutter, Android Native
 
-- 💼 Intern at [NIRRH](https://nirrh.res.in/)
+- 💼 Flutter Developer at [Intellect Softwares](https://www.intellectsoftwares.com/)
 
 - 📫 Reach me via [email](nashalanandas@gmail.com)
 
